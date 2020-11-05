@@ -93,7 +93,7 @@ Dummied the offer type column and dropped. Dropping time, offer received, offer 
 
 Applied principal component analysis on ths dataset and retained 88 percent variance with 9 principle components.
 
-<img width="270" alt="pcomponents" src="https://user-images.githubusercontent.com/48923446/98115223-7cbf3700-1ecc-11eb-9724-f5ba2cf0160b.PNG">
+<img width="331" alt="cluster population" src="https://user-images.githubusercontent.com/48923446/98194882-681f8500-1f46-11eb-941a-64240145e075.PNG">
 
 Now I will be doing cluster analysis on this data to understand the different types of customers.
 
